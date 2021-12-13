@@ -1,0 +1,45 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+.navbar-inverse .navbar-nav > li > a{
+    color:#000;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: transparent;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+.navbar-inverse{
+    background-color: transparent;
+    border-color: transparent;
+    border-bottom: tomato;
+    background-image:none
+}
+img{
+    width: 100%;
+}
+.brand{
+    width: 50px!important;
+}
+.single-img {
+    display: inline-flex;
+}
+.affordable{
+    width: 100%;
+}
+
+h2,h3{
+    text-align: center;
+    
+}
+h2{
+    font-family: fangsong;
+}
+
+.single-img > div{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
